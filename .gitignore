@@ -14,6 +14,6 @@ env/
 Thumbs.db
 
 # --- Veri Dosyaları (Opsiyonel) ---
-# Eğer veri setin çok büyükse (GitHub limiti 100MB), aşağıdaki satırın başındaki # işaretini kaldır.
-# *.csv
-# *.nc
+data/*.csv
+data/*.nc
+data/*.zip
